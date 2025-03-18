@@ -37,8 +37,10 @@ If you have any questions about this Privacy Policy, please contact us:
 
 Copyright (c) AIBao 2025
 
-Email: [politicaleconomicstalk@gmail.com]
-Website: [Fill Light Studio](https://github.com/baoqj/fill-light-studio/)
+- Email: [politicaleconomicstalk@gmail.com]
+- Website: [Fill Light Studio](https://github.com/baoqj/fill-light-studio/)
+
+### TLDR
 
 - We don’t collect your personal data
 - We don’t track you
